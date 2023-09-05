@@ -1,0 +1,166 @@
+/* External CSS */
+.basediv{
+    background-color: rgb(236, 236, 240);
+}
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.d-flx {
+    display: flex;
+}
+
+.j-c {
+    justify-content: space-between;
+}
+
+.header-dev-pad {
+    padding-top: 8px;
+    padding-bottom: 15px;
+}
+
+.searchButton {
+    left: 10px;
+    top: 2px;
+}
+
+.inputypeText {
+    padding-left: 20px;
+    border-radius: 30px;
+    border: solid 1px rgb(247, 243, 243);
+    background-color: rgb(227, 226, 226);
+}
+
+.IconUserKart {
+    padding-left: 20px;
+}
+
+.oppoicon-pad {
+    padding-left: 50px;
+}
+
+.header-left-props {
+    color: rgba(0, 0, 0, 0.55);
+    font-family: 'OPPOSans-Ver2-Medium';
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+.header-left-prpos-div {
+    width: 100%;
+    background-color: white;
+}
+
+.header-right-props-div {
+    width: 30%;
+}
+
+.oppo-image {
+    width: 100%;
+}
+
+.image-text-Margin{
+    top: 60px;
+    left: 60px;
+}
+
+.image-eachLineText-margin-bottom {
+    margin-bottom: 0px;
+}
+
+.image-eachLineText-margin-TOP {
+    margin-top: 0px;
+}
+
+.imageText3rdLine-color {
+    color: gray;
+}
+
+.buynow-style {
+    background-color: black;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    border-radius: 20px;
+    padding: 6px;
+}
+
+.divparent-div1-4 {
+    width: 17%;
+}
+
+.imgWidth_div1-4 {
+    width: 100%;
+}
+
+.div1-4 {
+    text-decoration: none;
+    padding-left: 70px;
+    color: black;
+}
+.newArrivals_ptag{
+    padding-left: 40px; font-weight: bold; font-size: 20px; font-family: monospace;
+}
+.text14d{
+    background-color: black;
+    border-radius: 12px;
+    font-weight: bold;
+    color: white;
+    margin-left: 20px;
+    padding: 4px 10px 4px 10px;
+}
+.textsign{
+margin-top: 16px; font-size: 20px; padding-left: 20px;
+}
+.Renodiv{
+    width: 30%; background-color: white; margin-left: 10px; border-radius: 10px;
+}
+.Reno1div{
+    margin-left: 40px;
+}
+.Reno1s{
+    width: 100px;
+}
+.Reno1textdiv{
+    padding-top: 15px;
+}
+.Reno-h3-fontsize{
+    font-size: 20px; margin-top: 5px;
+}
+.bolt_icon{
+    padding: 2%; background-color:rgb(208, 205, 205); border-radius: 10px; top: 46px; text-decoration: none; color: black;
+}
+.AllfontFamily{
+    font-family: monospace;
+}
+.rs25999{
+    margin-top: 30px;
+}
+.margin{
+margin: 50px 20px 20px 0px;
+}
+.imgRLmargin{
+width: 95%; margin: 10px 40px 10px 40px; border-radius: 10%;
+}
+.giftmargin{
+    margin: 30px 30px 10px 40px; 
+}
+.giftImgWidth{
+    width: 95%; 
+}
+.footermaindiv{
+    background-color: black;
+}
+.footerHeadingText{
+    font-weight: bold;
+}
+.footerNormalText{
+color: white; text-decoration: none; font-size: 14px;
+}
+.footermargin{
+    margin: 20px 15px 20px 15px;
+}
